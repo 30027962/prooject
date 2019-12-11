@@ -1,0 +1,59 @@
+header img {
+    height: 40px;
+    margin-right: 40px;
+
+}
+body {
+    height: 125vh;
+    background-image: url('https://s3.amazonaws.com/pro.brandkit.io/accounts/tnz/asset_files/184462/large_thumb_preview.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 80px;
+    padding: 30px;
+    font-style: initial;
+    opacity: 15;
+
+}
+
+#hero .profile-img {
+    width: 500px;
+    border-radius: 10%;
+    padding: 20px;
+}
+.section-inner{
+    float: left;
+}
+    
+    
+
+
+
+main {
+    color: white;
+}
+
+header {
+    background-color: white;
+    position: center;;
+    top: 0;
+    left: 10;
+    right: 0;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+    
+}
+
+header * {
+    display: inherit;
+}
+
+header li {
+    margin: 20px;
+}
+
+header li a {
+    color: black;
+    text-decoration: black;
+}
